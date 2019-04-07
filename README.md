@@ -1,1 +1,7 @@
-# discord-bot
+# MKHub Discord Bot
+
+## Used
+
+- Nodejs
+- Express
+- Discordjs
